@@ -8,6 +8,6 @@ We plan to replace the interaction that routinely happens between the pedestrian
 and the car itself. We do this by installing eyes on the car that seek eye contact with pedestrians on the road. This will also give confidence
 to pedestrians that the autonomous vehicle is aware of them!
 
-Making this repository to record of my progress so far in an organized way!
+Making this repository to record of my progress for this project so far, in an organized way!
 
 Adios!
